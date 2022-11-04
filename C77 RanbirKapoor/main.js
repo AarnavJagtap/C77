@@ -1,0 +1,12 @@
+var first_name = "Ranbir";
+var second_name = "Kapoor";
+var full_name = first_name + second_name;
+console.log(first_name);
+console.log(second_name);
+console.log(full_name);
+var a=10;
+var b=5;
+var number = a+b;
+console.log(a);
+console.log(b);
+console.log(number);
